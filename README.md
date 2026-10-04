@@ -2,32 +2,61 @@
 
 **`Desenvolvedor backend especializado em bots e integrações.`**
 
-📍 Rio das Ostras - RJ 🇧🇷 | 👦 14 anos
-
-- 🐍 **Desenvolvedor Python** focado no desenvolvimento backend e automação de processos.
-- 🤖 **Criador de bots** para Discord e Telegram.
-- 🌐 **Estudando HTML** para expandir meus conhecimentos em desenvolvimento web.
-- 📊 **Certificado em Power BI** pela Hashtag Treinamentos, aplicando análise de dados aos meus projetos.
+Arthur Gabriel | 14 anos | Rio das Ostras - RJ 🇧🇷
+🐍 Desenvolvedor Python focado no desenvolvimento backend e automação de processos.
+🤖 Criador de bots para Discord e Telegram.
+🌐 Estudando HTML para expandir meus conhecimentos.
+👾 Tenho um curso de Power Bi da HashTag Treinamentos.
 
 ---
 
-### 🛠️ Tecnologias e Ferramentas
+### 🤖 Tecnologias
 
-![Python](https://shields.io)
-![HTML5](https://shields.io)
-![PowerBI](https://shields.io)
+<img 
+    align="left" 
+    alt="HTML"
+    title="HTML" 
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://jsdelivr.net" 
+/>
+<img 
+    align="left" 
+    alt="Python" 
+    title="Python"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://jsdelivr.net" 
+/>
+<img 
+    align="left" 
+    alt="PowerBI"
+    title="Power BI" 
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://wikimedia.org" 
+/>
+
+<br/>
+<br/>
 
 ---
 
 ### 🌐 Redes e Contato
 
-[![YouTube](https://shields.io)](https://youtube.com)
-[![GitHub](https://shields.io)](https://github.com)
+<p align="left">
+  <a href="https://youtube.com" target="_blank">
+    <img src="https://shields.io" alt="YouTube" />
+  </a>
+  <a href="https://github.com" target="_blank">
+    <img src="https://shields.io" alt="GitHub" />
+  </a>
+</p>
 
 ---
 
 ### 📊 Estatísticas
 
-[![Estatísticas do GitHub](https://vercel.app)](https://github.com)
-
-[![Linguagens mais usadas](https://vercel.app)](https://github.com)
+<p align="left">
+  <img width="100%" src="https://vercel.app" alt="Estudos" />
+</p>
