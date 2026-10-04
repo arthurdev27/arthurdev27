@@ -1,16 +1,12 @@
 # 👨‍💻 Arthur Gabriel
 
-**`Desenvolvedor backend especializado em bots e integrações.`**
+**`Desenvolvedora FullStack`**
 
-Arthur Gabriel | 14 anos | De Nova Iguaçu para Rio das Ostras - RJ 🇧🇷
-🐍 Desenvolvedor Python focado no desenvolvimento backend e automação de processos.
-🤖 Criador de bots para Discord e Telegram.
-🌐 Estudando HTML para expandir meus conhecimentos.
-👾 Tenho um curso de Power Bi da HashTag Treinamentos.
+Arthur Gabriel | 14 anos | Rio das Ostras - RJ 🇧🇷 🐍 Desenvolvedor Python focado no desenvolvimento backend e automação de processos. 🤖 Criador de bots para Discord e Telegram. 🌐 Estudando HTML para expandir meus conhecimentos. 👾 Tenho um curso de Power Bi da HashTag Treinamentos.
 
 ---
 
-### 🤖 Tecnologias
+### 🤖 Linguagens e Tecnologias
 
 <img 
     align="left" 
@@ -18,7 +14,7 @@ Arthur Gabriel | 14 anos | De Nova Iguaçu para Rio das Ostras - RJ 🇧🇷
     title="HTML" 
     width="30px" 
     style="padding-right: 10px;" 
-    src="https://jsdelivr.net" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" 
 />
 <img 
     align="left" 
@@ -26,33 +22,20 @@ Arthur Gabriel | 14 anos | De Nova Iguaçu para Rio das Ostras - RJ 🇧🇷
     title="Python"
     width="30px" 
     style="padding-right: 10px;" 
-    src="https://jsdelivr.net" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
 />
 <img 
     align="left" 
-    alt="PowerBI"
+    alt="Power BI logo icon for business intelligence and data analysis, shown as a colorful dashboard graphic with bars and charts. It sits among other technology icons on a developer profile page, creating a clean and professional technical environment. The tone is analytical and modern."
     title="Power BI" 
     width="30px" 
     style="padding-right: 10px;" 
-    src="https://wikimedia.org" 
+    src=<img src=<img align="left" alt="Power BI" title="Power BI" width="30px" style="padding-right: 10px;" src="https://unpkg.com" />
+
+
 />
-
 <br/>
 <br/>
-
----
-
-### 🌐 Redes e Contato 
-<p align="left"> 
-  <a href="https://github.com" target="_blank"> 
-    <img src="https://shields.io" alt="GitHub" /> 
-  </a> 
-  <a href="https://youtube.com" target="_blank"> 
-    <img src="https://shields.io" alt="YouTube" /> 
-  </a> 
-</p> 
-
----
 
 ### 📊 Estatísticas
 
@@ -64,4 +47,3 @@ Arthur Gabriel | 14 anos | De Nova Iguaçu para Rio das Ostras - RJ 🇧🇷
     style="padding-right: 10px;" 
     src="https://github-readme-stats.vercel.app/api?username=arthurdev27&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
   />
-
