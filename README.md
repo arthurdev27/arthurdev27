@@ -30,7 +30,8 @@ Arthur Gabriel | 14 anos | Rio das Ostras - RJ 🇧🇷 🐍 Desenvolvedor Pytho
     title="Power BI" 
     width="30px" 
     style="padding-right: 10px;" 
-    src=<img src="https://unpkg.com" alt="Power BI Logo" width="40" height="40" />
+    src=<img src=<img align="left" alt="Power BI" title="Power BI" width="30px" style="padding-right: 10px;" src="https://unpkg.com" />
+
 
 />
 <br/>
