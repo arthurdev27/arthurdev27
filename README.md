@@ -13,52 +13,21 @@
 
 ### 🛠️ Tecnologias e Ferramentas
 
-<img 
-    align="left" 
-    alt="Python" 
-    title="Python"
-    width="35px" 
-    style="padding-right: 12px;" 
-    src="https://jsdelivr.net" 
-/>
-<img 
-    align="left" 
-    alt="HTML5"
-    title="HTML5" 
-    width="35px" 
-    style="padding-right: 12px;" 
-    src="https://jsdelivr.net" 
-/>
-<img 
-    align="left" 
-    alt="PowerBI"
-    title="Power BI" 
-    width="35px" 
-    style="padding-right: 12px;" 
-    src="https://devicon.dev" 
-/>
-
-<br/>
-<br/>
+![Python](https://shields.io)
+![HTML5](https://shields.io)
+![PowerBI](https://shields.io)
 
 ---
 
 ### 🌐 Redes e Contato
 
-<p align="left">
-  <a href="https://youtube.com" target="_blank">
-    <img src="https://shields.io" alt="YouTube" />
-  </a>
-  <a href="https://github.com" target="_blank">
-    <img src="https://shields.io" alt="GitHub" />
-  </a>
-</p>
+[![YouTube](https://shields.io)](https://youtube.com)
+[![GitHub](https://shields.io)](https://github.com)
 
 ---
 
 ### 📊 Estatísticas
 
-<p align="left">
-  <img height="180em" src="https://vercel.app"/>
-  <img height="180em" src="https://vercel.app"/>
-</p>
+[![Estatísticas do GitHub](https://vercel.app)](https://github.com)
+
+[![Linguagens mais usadas](https://vercel.app)](https://github.com)
