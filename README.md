@@ -1,6 +1,6 @@
 # 👨‍💻 Arthur Gabriel
 
-**`Desenvolvedora FullStack`**
+**`Desenvolvedor backend especializado em bots e integrações.`**
 
 Arthur Gabriel | 14 anos | Rio das Ostras - RJ 🇧🇷 🐍 Desenvolvedor Python focado no desenvolvimento backend e automação de processos. 🤖 Criador de bots para Discord e Telegram. 🌐 Estudando HTML para expandir meus conhecimentos. 👾 Tenho um curso de Power Bi da HashTag Treinamentos.
 
