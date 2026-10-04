@@ -23,15 +23,6 @@ Arthur Gabriel | 14 anos | Rio das Ostras - RJ 🇧🇷 🐍 Desenvolvedor Pytho
     width="30px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="Power BI logo icon for business intelligence and data analysis, shown as a colorful dashboard graphic with bars and charts. It sits among other technology icons on a developer profile page, creating a clean and professional technical environment. The tone is analytical and modern."
-    title="Power BI" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src=<img src=<img align="left" alt="Power BI" title="Power BI" width="30px" style="padding-right: 10px;" src="https://unpkg.com" />
-
 
 />
 <br/>
