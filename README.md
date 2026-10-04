@@ -9,7 +9,12 @@ Arthur Gabriel | 14 anos | Rio das Ostras - RJ BR
 - 🌐 **Estudando HTML** para expandir meus conhecimentos.
 - 📊 Tenho um curso de **Power BI** da HashTag Treinamentos.
 
-
+r-the-badge&labelColor=C79<p align="left">
+    <a href="https://www.youtube.com/@arthurdev27?sub_confirmation=1">
+        <img 
+            alt="youtube subscribers" 
+            title="Inscreva-se no meu canal" 
+            src="https://custom-icon-badges.demolab.com/youtube/channel/subscribers/UCo-gJ8RnTn5akHqHvO55DVA?color=%23E05D44&label=Inscreva-se&logo=video&logoColor=white&style=for-the-badge&labelColor=CE4630"
 ---
 
 ### 🤖 Linguagens e Tecnologias
